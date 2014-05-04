@@ -20,7 +20,7 @@
 		}
 	});
 
-	$('.email').attr('href', 'mailto:' + 'sindre' + 'sorhus' + '@' + 'gmail' + '.' + 'com');
+	$('.email').attr('href', 'mailto:' + 'vinicius.m.do.carmo' + '@' + 'gmail' + '.' + 'com');
 
 	$('.profile a').on('mouseover mouseout', function (e) {
 		$(this).toggleClass('animated tada', e.type === 'mouseover');

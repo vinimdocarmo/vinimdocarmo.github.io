@@ -4,11 +4,7 @@
 
 ###### Fork and customize your own with a beautiful [blurry background image](https://google.com/search?q=free+blurry+backgrounds&oq=free+blurry+backgrounds)!
 
-[![](screenshot.png)](http://sindresorhus.com/hi)
-
-[![](screenshot-mobile.png)](http://sindresorhus.com/hi)
-
 
 ## License
 
-MIT © [Sindre Sorhus](http://sindresorhus.com)
+MIT © [Vinícius do Carmo](http://vinimdocarmo.github.oi)
