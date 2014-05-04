@@ -1,4 +1,4 @@
-# [Hi](http://sindresorhus.com/hi)
+# Hi
 
 > Minimal and responsive contact page template
 
