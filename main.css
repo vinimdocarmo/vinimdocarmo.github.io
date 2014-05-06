@@ -138,12 +138,12 @@ a {
 	opacity: 0.3;
 }
 
-.about a {
+.about a, .links a {
 	transition: all 0.3s ease-out;
 	-webkit-transition: all 0.3s ease-out;
 }
 
-.about a:hover {
+.about a:hover, .links a:hover {
 	color: #0FB4F5;
 	text-decoration: none;
 	text-shadow: 0 0 30px rgba(77, 173, 208, 0.5);
@@ -222,7 +222,6 @@ a {
 
 .links a {
 	font-size: 20px;
-	color: #fff;
 }
 
 .more {
