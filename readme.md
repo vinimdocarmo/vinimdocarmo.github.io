@@ -7,4 +7,4 @@
 
 ## License
 
-MIT © [Vinícius do Carmo](http://vinimdocarmo.github.oi)
+MIT © [Vinícius do Carmo](http://vinimdocarmo.js.org)
