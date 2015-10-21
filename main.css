@@ -276,7 +276,7 @@ a {
 @media (max-width: 480px) {
 	h2 {
 		font-size: 30px;
-		line-height: 20px;
+		line-height: 30px;
 	}
 
 	.container {
