@@ -4,12 +4,8 @@
     "ignore": [
       "firebase.json",
       "**/.*",
-      "**/node_modules/**",
-      ".jshintrc",
       "license",
-      "readme.md",
-      ".editorconfig",
-      ".gitignore"
+      "readme.md"
     ]
   }
 }
